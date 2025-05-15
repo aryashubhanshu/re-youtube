@@ -13,3 +13,7 @@
 ### Database
 
 - Drizzle ORM with Postgres
+
+### Webhook Sync (Dev)
+
+- ngrok
